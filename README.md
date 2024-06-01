@@ -161,3 +161,8 @@ Mahmoud - [Github](https://github.com/mahmoudhmoud)
 
 ## License
 Public Domain. No copy write protection. 
+
+Updated by:
+Madani Amchart
+&
+Mahmoud Khalil Ait Ijjou
